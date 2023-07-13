@@ -9,7 +9,7 @@
   <br />
   <br />
   
-  <img src="./readme-images/project-logo.png" />
+  <img src="readme-images/CON LOGO TRANSPARENT.png" />
 
   <h2 align="center">CON - Critical-Ops News </h2>
 
