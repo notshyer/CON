@@ -11,9 +11,9 @@
   
   <img src="./readme-images/project-logo.png" />
 
-  <h2 align="center">GameX - Gaming website</h2>
+  <h2 align="center">CON - Critical-Ops News </h2>
 
-  GameX is a fully responsive eSports gaming website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  CON is the next big-thing to happen to Critical Ops <br />Are you ready?
 
   <a href="https://codewithsadee.github.io/gamex/"><strong>➥ Live Demo</strong></a>
 
